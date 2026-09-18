@@ -11,7 +11,7 @@ The short version of what I found:
 - **Bikes carry the business**: $94.65M of the $109.85M total revenue — Components ($11.80M), Clothing ($2.12M), and Accessories ($1.27M) are a distant second, third, and fourth.
 - **Revenue is customer-concentrated**: a small group of top customers accounts for a disproportionate share of total revenue (the top customer alone placed 116 orders).
 
-Everything below is how I got there.
+Everything below is how I got there. 
 
 ---
 
