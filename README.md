@@ -1,4 +1,4 @@
-# 🚴 Retail Sales & Profitability Analysis<img width="468" height="29" alt="image" src="https://github.com/user-attachments/assets/f555e46e-1ebb-4e28-b68a-fe3be968be36" />& BI Dashboard
+# 🚴 Retail Sales & Profitability Analysis & BI Dashboard<img width="468" height="29" alt="image" src="https://github.com/user-attachments/assets/f555e46e-1ebb-4e28-b68a-fe3be968be36" />& BI Dashboard
 
 ## What this project is
 
